@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranjal-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Pranjal-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE)
-[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manhgayepranjal@gmail.com)
 
 </div>
 
